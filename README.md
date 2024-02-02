@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **DevSecOps & Cloud DevOps | Terraform & Kubernetes | Azur DevOps**<br><br>
 👯 I’m looking to collaborate on **DevOps | WordPress Projects**<br><br>
-👨‍💻 All of my projects are available at **[GITHUB.COM/kavindi-akalanka](https://github.com/kavindu-akalanka)** <br><br>
+👨‍💻 All of my projects are available at **[GITHUB.COM/kavindi-akalanka](https://github.com/Kavindu-Jayasinghe)** <br><br>
 💬 Ask me about **Technical Guides | Repairing | Bug Hunting**<br><br>
 📫 You can contact me at **[kavindu98akalanka@GMAIL.COM]** <br><br>
 
@@ -20,7 +20,7 @@
 
 # 🤝 Connect With Me:
 <div align="center">  
-<a href="https://github.com/kavindu-akalanka" target="_blank">
+<a href="https://github.com/Kavindu-Jayasinghe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=Github style="margin-bottom: 5px;" />
 </a>
 
@@ -50,12 +50,11 @@
 
 # 🎭 Github Stats and Activity
 
-<div align="center"><a href="https://github.com/kavindu-akalanka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu-akalanka&stroke=64748b&background=ffffff00&ring=22c55e&fire=22c55e&currStreakNum=64748b&currStreakLabel=22c55e&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" align="center"/></a></div>
+<div align="center"><a href="https://github.com/Kavindu-Jayasinghe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindu-Jayasinghe&stroke=64748b&background=ffffff00&ring=22c55e&fire=22c55e&currStreakNum=64748b&currStreakLabel=22c55e&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" align="center"/></a></div>
 
-<a href="https://github.com/kavindu-akalanka"><img src="https://github-readme-stats.vercel.app/api?username=kavindu-akalanka&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=64748b&bg_color=ffffff00&hide_border=true&show_icons=true" alt="kavindu-akalanka's GitHub stats" align="left" /></a>
+<a href="https://github.com/Kavindu-Jayasinghe"><img src="https://github-readme-stats.vercel.app/api?username=Kavindu-Jayasinghe&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=64748b&bg_color=ffffff00&hide_border=true&show_icons=true" alt="Kavindu Jayasinghe's GitHub stats" align="left" /></a>
+<a href="https://github.com/kavindu-akalanka"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu-Jayasinghe&title_color=22c55e&text_color=64748b&bg_color=ffffff00&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="right"/></a>
 
-<a href="https://github.com/kavindu-akalanka"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu-akalanka&title_color=22c55e&text_color=64748b&bg_color=ffffff00&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="right"/></a>
-
-<div align="center"><a href="https://github.com/kavindu-akalanka" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindu-akalanka&bg_color=ffffff00&color=46BA8D&line=3CB87C&point=3CB87C&hide_border=true&locale=en" align="center"/></a></div>
+<div align="center"><a href="https://github.com/Kavindu-Jayasinghe" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindu-Jayasinghe&bg_color=ffffff00&color=46BA8D&line=3CB87C&point=3CB87C&hide_border=true&locale=en" align="center"/></a></div>
 
 
