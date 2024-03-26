@@ -24,7 +24,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=Github style="margin-bottom: 5px;" />
 </a>
 
-<a href="www.linkedin.com/in/kavindu-akalanka-8288a8267" target="_blank">
+<a href="https://www.linkedin.com/in/kavindu-akalanka-8288a8267/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 
