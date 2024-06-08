@@ -4,13 +4,13 @@
 
 <!-- Header Section -->
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&color=36BCF7FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavindu+Jayasinghe!;" /></h1>
-<h3 align="center"><font face="Arial"> Hard working and a passionate DevOps Engineer from SriLanka, working on Cloud and DevOps from more than 1 year now. </font></h3>
+<h3 align="center"><font face="Arial"> Hard working DevOps Engineer from SriLanka, working on Cloud and DevOps from more than 1 year now. </font></h3>
 
 #
 <img align="right" alt="Coding" width="400" src="Resources/user1.gif">
 <br>
 
-🌱 I’m currently learning **DevSecOps & Cloud DevOps | Terraform & Kubernetes | Azur DevOps**<br><br>
+🌱 I’m currently learning **Cloud and DevOps | Terraform & Kubernetes**<br><br>
 👯 I’m looking to collaborate on **DevOps | WordPress Projects**<br><br>
 👨‍💻 All of my projects are available at **[GITHUB.COM/kavindi-akalanka](https://github.com/Kavindu-Jayasinghe)** <br><br>
 💬 Ask me about **Technical Guides | Repairing | Bug Hunting**<br><br>
