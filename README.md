@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **Cloud and DevOps | Terraform & Kubernetes**<br><br>
 👯 I’m looking to collaborate on **DevOps | WordPress Projects**<br><br>
-👨‍💻 All of my projects are available at **[GITHUB.COM/kavindi-jayasinghe](https://github.com/Kavindu-Jayasinghe)** <br><br>
+👨‍💻 All of my projects are available at **[GITHUB.COM/kavindu-jayasinghe](https://github.com/Kavindu-Jayasinghe)** <br><br>
 💬 Ask me about **Technical Guides | Repairing | Bug Hunting**<br><br>
 📫 You can contact me at **[kavindu98akalanka@GMAIL.COM]** <br><br>
 
