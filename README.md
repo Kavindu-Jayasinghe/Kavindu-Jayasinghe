@@ -1,5 +1,4 @@
-# <div align="center"><img align="center"  alt="Banner"  src="Resources/DevOps-Header.jpg"></div>
-## Infinity Symbol (DevOps)
+
 
 <h1 align="center" style="font-size:120px;">&#8734;</h1>
 <h2 align="center" style="font-size:40px;">DevOps Engineer | Automation Enthusiast</h2>
