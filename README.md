@@ -1,5 +1,10 @@
-<div align="center"><img align="center"  alt="Banner"  src="Resources/DevOps-Header.jpg"></div>
+# <div align="center"><img align="center"  alt="Banner"  src="Resources/DevOps-Header.jpg"></div>
+## Infinity Symbol (DevOps)
 
+<div align="center">
+  <h1 style="font-size:100px;">&#8734;</h1>
+  <p>DevOps Lifecycle</p>
+</div>
 <br><br>
 
 <!-- Header Section -->
