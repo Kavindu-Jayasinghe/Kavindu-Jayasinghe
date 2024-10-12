@@ -1,11 +1,18 @@
 # <div align="center"><img align="center"  alt="Banner"  src="Resources/DevOps-Header.jpg"></div>
 ## Infinity Symbol (DevOps)
 
-<div align="center">
-  <h1 style="font-size:100px;">&#8734;</h1>
-  <p>DevOps Lifecycle</p>
-</div>
-<br><br>
+<h1 align="center" style="font-size:120px;">&#8734;</h1>
+<h2 align="center" style="font-size:40px;">DevOps Engineer | Automation Enthusiast</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-Continuous--Integration%20%26%20Delivery-blue?style=for-the-badge" alt="CI/CD Badge"/>
+  <img src="https://img.shields.io/badge/Infrastructure--as--Code-IaC-orange?style=for-the-badge" alt="IaC Badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Native-green?style=for-the-badge" alt="Cloud Native Badge"/>
+</p>
+
+<p align="center">
+  Passionate about building robust, scalable, and automated systems using the latest DevOps technologies.
+</p>
 
 <!-- Header Section -->
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&color=36BCF7FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavindu+Jayasinghe!;" /></h1>
