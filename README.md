@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> <font face="Arial">
-  Passionate about building robust, scalable, and automated systems using the latest DevOps technologies with  more than one year experiance.
+  Passionate about building robust, scalable, and automated systems using the latest DevOps technologies with  more than two year experiance.
   </font>
 </p>
 
