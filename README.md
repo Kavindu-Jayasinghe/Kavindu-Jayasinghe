@@ -19,12 +19,16 @@
 
 ### 👨‍💻 About Me
 
+<img align="right" alt="coding animation" width="380" src="Resources/user1.gif"/>
+
 - 🛠️ **3+ years** of hands-on experience building and operating cloud-native infrastructure
 - ☁️ Focused on **DevOps, SRE, and Platform Engineering** — AWS, GCP, Azure
 - 🚀 I design **CI/CD pipelines, IaC, and observability** that scale
 - 🌱 Currently going deeper on **Crossplane, GitOps with ArgoCD, and Kubernetes operators**
 - 💬 Ask me about **Kubernetes, Terraform, pipeline design, and platform tooling**
 - 📫 Reach me at **kavindu98akalanka@gmail.com**
+
+<br clear="right"/>
 
 ---
 
@@ -114,6 +118,12 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindu-Jayasinghe&bg_color=ffffff00&color=36BCF7&line=22c55e&point=22c55e&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="Resources/user2.gif" alt="devops animation" width="60%"/>
 </p>
 
 ---
