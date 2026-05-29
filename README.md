@@ -122,9 +122,29 @@
 
 ---
 
-<p align="center">
-  <img src="Resources/user2.gif" alt="devops animation" width="60%"/>
+### 🏆 Achievements & Highlights
+
+<table>
+  <tr>
+    <td width="42%" align="center">
+      <img src="Resources/user2.gif" alt="devops animation" width="100%"/>
+    </td>
+    <td width="58%" valign="top">
+
+Over **3+ years** in DevOps and Cloud, I've shipped production pipelines, IaC modules, and platform tooling — automating away toil so engineering teams can focus on shipping.
+
+<a href="https://github.com/Kavindu-Jayasinghe">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavindu-Jayasinghe&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SSS,SS,S,AAA,AA,A,B,C"/>
+</a>
+
+<p>
+  <img src="https://img.shields.io/github/stars/Kavindu-Jayasinghe?style=for-the-badge&logo=github&color=22c55e&logoColor=white&label=Total%20Stars"/>
+  <img src="https://img.shields.io/github/followers/Kavindu-Jayasinghe?style=for-the-badge&logo=github&color=36BCF7&logoColor=white&label=Followers"/>
 </p>
+
+  </td>
+  </tr>
+</table>
 
 ---
 
