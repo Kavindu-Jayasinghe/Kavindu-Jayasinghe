@@ -22,7 +22,7 @@
 <img align="right" alt="coding animation" width="380" src="Resources/user1.gif"/>
 
 - 🛠️ **3+ years** of hands-on experience building and operating cloud-native infrastructure
-- ☁️ Focused on **DevOps, SRE, and Platform Engineering** — AWS, GCP, Azure
+- ☁️ Focused on **DevOps, SRE, and Platform Engineering** - AWS, GCP, Azure
 - 🚀 I design **CI/CD pipelines, IaC, and observability** that scale
 - 🌱 Currently going deeper on **Crossplane, GitOps with ArgoCD, and Kubernetes operators**
 - 💬 Ask me about **Kubernetes, Terraform, pipeline design, and platform tooling**
